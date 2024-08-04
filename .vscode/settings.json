@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 4,
+    "files.encoding": "gbk",
+    "search.exclude": {
+        "proj/**": true
+    }
+}
